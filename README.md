@@ -10,7 +10,7 @@ Welcome! My name is Caio, I'm 24 years old and I'm a Computer Engineering underg
 
 - :chart_with_upwards_trend: I have basic knowledge in MSSQL, PostgreSQL and MongoDB.
 
-- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and I'm created some desktop applications using __*C#*__ (WinForms) before landing on Github.
+- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and I have created some desktop applications using __*C#*__ (WinForms) before landing on Github.
 
 - :notes: I'm very inspired by _Drum n' Bass_ nowadays while not letting go my old passion for _Thrash Metal_ and other music genres (as you can see, my music taste can be pretty encompassing :joy:).
 
