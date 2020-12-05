@@ -10,7 +10,7 @@ Welcome! My name is Caio, I'm 24 years old and I'm a Computer Engineering underg
 
 - :chart_with_upwards_trend: I have basic knowledge in MSSQL, PostgreSQL and MongoDB.
 
-- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and I have created some desktop applications using __*C#*__ (WinForms) before landing on Github.
+- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and using __*C#*__ (WinForms) for backend.
 
 - :e-mail: Reaching me : you can always drop me a message at my e-mail or linkedin by clicking the buttons at the top of this doc. :blush:
 
