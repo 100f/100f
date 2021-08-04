@@ -6,11 +6,11 @@
 Welcome! My name is Caio, I'm 24 years old and I'm a Computer Engineering undergrad student based in Praia Grande - SP (Brazil) :palm_tree:
 
 
-- :bookmark_tabs: Currently studying __*Typescript*__ and __*C#*__ for fullstack development.
+- :bookmark_tabs: Currently studying __*Typescript*__ and __*Java*__ for fullstack development.
 
 - :chart_with_upwards_trend: I have basic knowledge in MSSQL, PostgreSQL and MongoDB.
 
-- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and using __*C#*__ (WinForms)/__NodeJS__ for backend.
+- :space_invader: I create projects using __*ReactJS*__ and __*React Native*__ from time to time and using __*Java*__ (WinForms)/__NodeJS__ for backend.
 
 - :e-mail: Reaching me : you can always drop me a message at my e-mail or linkedin by clicking the buttons at the top of this doc. :blush:
 
